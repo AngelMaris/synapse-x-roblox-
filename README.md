@@ -17,16 +17,4 @@ download : https://synapselite.netlify.app/
 download : https://synapselite.netlify.app/
 download : https://synapselite.netlify.app/
 download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
-download : https://synapselite.netlify.app/
 
